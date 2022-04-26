@@ -1,3 +1,4 @@
-# ethanholroyd-github.io
+# Ethan's Portfolio
+
 My personal portfolio
 WIP

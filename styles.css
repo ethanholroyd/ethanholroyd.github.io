@@ -24,9 +24,11 @@ p {
     text-indent: 3%;
 }
 
-div.a {
-    width: 500px;
+div.topbar {
+    background-color: #075285;
+    width: 90%;
     margin: auto;
+    align-items: center;
 }
 
 .dropbtn {

@@ -30,8 +30,8 @@ div.a {
 }
 
 .dropbtn {
-    background-color: aquamarine;
-    color:black;
+    background-color: #3498DB;
+    color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -39,7 +39,7 @@ div.a {
 }
 
 .dropbtn:hover, .dropbtn:focus{
-    background-color: antiquewhite;
+    background-color: #2980B9;
 }
 
 .dropdown {
@@ -50,7 +50,7 @@ div.a {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: azure;
+    background-color: #f1f1f1;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rg(0,0,0,0.2);
     z-index: 1;
